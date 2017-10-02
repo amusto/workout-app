@@ -1,2 +1,3 @@
 # workout-app
-Workout application project
+
+a [Sails](http://sailsjs.org) application
